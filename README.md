@@ -1,5 +1,5 @@
 <h3 align="center">
-  chatRoom
+  ChatRoom
 </h3>
 ## :rocket:
 
