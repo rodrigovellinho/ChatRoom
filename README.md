@@ -1,7 +1,7 @@
 <h3 align="center">
   ChatRoom
 </h3>
-## :rocket:
+##:rocket:
 
 <p align="center">
    <img src="https://github.com/rodrigovellinho/Chat_Room/blob/main/src/assets/printGitHub.jpg?raw=true" alt="chatRoom">
@@ -10,7 +10,7 @@
 ChatRoom é um aplicativo onde é possível deixar feedback no post do usuário. É possível aplaudir os comentários, deletar e publicar novos comentários nos posts.
 <br>
 
-## :wrench: Instalação e uso
+##:wrench: Instalação e uso
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
