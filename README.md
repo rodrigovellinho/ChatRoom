@@ -1,12 +1,10 @@
 <h3 align="center">
   chatRoom
 </h3>
-<br>
-
 ## :rocket:
 
 <p align="center">
-  https://github.com/rodrigovellinho/Chat_Room/blob/main/src/assets/printGitHub.jpg?raw=true
+   <img src="https://github.com/rodrigovellinho/Chat_Room/blob/main/src/assets/printGitHub.jpg?raw=true" alt="chatRoom">
 </p>
 
 ChatRoom é um aplicativo onde é possível deixar feedback no post do usuário. É possível aplaudir os comentários, deletar e publicar novos comentários nos posts.
